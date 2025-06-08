@@ -12,7 +12,7 @@ I wanted to reimagine Battleship to make it harder and more exciting. Armada is 
 
 ## 👥 Who It’s For
 
-- Players aged 10–16
+- Targetted at players aged 10–16, but really anyone can play too!
 - People who enjoy thinking games
 - Anyone interested in coding or game logic
 
@@ -83,7 +83,7 @@ If a ship is destroyed, its ability is disabled.
 
 ---
 
-## 🙏 Thanks
+## Credits:
 
 Thanks to my teachers and friends who helped test the game and gave suggestions. This took over 100 hours of coding and testing, and I'm proud of how it turned out.
 
